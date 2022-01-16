@@ -24,7 +24,7 @@ public class LockedMe {
     private static final String MAIN_MENU =
             "\nMAIN MENU - Select Your Option: \n"+
                     "1.  List files in directory\n"+
-                    "2.  Add, Delete or Search\n"+
+                    "2.  Busines Level Operations\n"+
                     "3.  Exit Program";
 
     private static final String SECONDARY_MAIN_MENU =
